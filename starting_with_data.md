@@ -9,6 +9,7 @@ Answer:
 
 
 Question 2: --finding the average no of visits per day
+
 SQL Queries:
 •	with cte_visits as(
 select distinct(date),count(*) from all_sessions group by date order by count(*) desc
