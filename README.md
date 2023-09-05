@@ -1,7 +1,8 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-	The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. This is a subset of the challenges we have to face while analysing real world problem.
+	The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. 
+ 	This is a subset of the challenges we have to face while analysing real world problem.
 
 ## Process
 •	**Exploring: I start with deep diving into data to get the better understanding of the dataset. I start exploring the each table and then column of the table and try to be more familiar with it.
