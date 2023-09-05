@@ -27,8 +27,8 @@ SQL Queries:
 
 Answer:
 
-"fullvisitorid"		"noofbounces"
-"4215347458239853405"	440
+"fullvisitorid"			"noofbounces"
+"4215347458239853405"		440
 
 
 
